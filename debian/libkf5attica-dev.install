@@ -1,5 +1,4 @@
 usr/include/KF5/Attica/
-usr/include/KF5/attica_version.h
 usr/lib/*/cmake/KF5Attica/
 usr/lib/*/libKF5Attica.so
 usr/lib/*/pkgconfig/libKF5Attica.pc
