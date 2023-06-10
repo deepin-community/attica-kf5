@@ -19,11 +19,22 @@
 
 namespace Attica
 {
+
+/**
+ * @class Target buildservice.h <Attica/BuildService>
+ *
+ * The target in a build service.
+ */
 struct Target {
     QString id;
     QString name;
 };
 
+/**
+ * @class BuildService buildservice.h <Attica/BuildService>
+ *
+ * Represents a build service.
+ */
 class ATTICA_EXPORT BuildService
 {
 public:

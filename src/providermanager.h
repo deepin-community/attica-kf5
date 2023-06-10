@@ -16,9 +16,14 @@
 #include "attica_export.h"
 #include "provider.h"
 
+/**
+ * The Attica namespace,
+ */
 namespace Attica
 {
 /**
+ * @class ProviderManager providermanager.h <Attica/ProviderManager>
+ *
  * Attica ProviderManager
  *
  * This class is the primary access to Attica's functions.

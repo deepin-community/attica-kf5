@@ -18,7 +18,6 @@
 #include <QFile>
 #include <QNetworkProxy>
 #include <QPluginLoader>
-#include <QProcess>
 #include <QSet>
 #include <QSignalMapper>
 #include <QTimer>
@@ -30,7 +29,7 @@
 
 using namespace Attica;
 
-class ProviderManager::Private
+class Q_DECL_HIDDEN ProviderManager::Private
 {
 public:
     PlatformDependent *m_internals;
