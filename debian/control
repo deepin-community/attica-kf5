@@ -7,13 +7,13 @@ Uploaders: Aurélien COUDERC <coucouf@debian.org>,
 Build-Depends: cmake (>= 3.16~),
                debhelper-compat (= 13),
                doxygen,
-               extra-cmake-modules (>= 5.90.0~),
+               extra-cmake-modules (>= 5.103.0~),
                libqt5sql5-sqlite:native,
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.15.2~),
                qttools5-dev,
                qttools5-dev-tools (>= 5.4),
-Standards-Version: 4.6.0
+Standards-Version: 4.6.2
 Homepage: https://invent.kde.org/frameworks/attica
 Vcs-Browser: https://salsa.debian.org/qt-kde-team/kde/attica
 Vcs-Git: https://salsa.debian.org/qt-kde-team/kde/attica.git
@@ -25,7 +25,7 @@ Architecture: any
 Depends: libkf5attica5 (= ${binary:Version}),
          qtbase5-dev (>= 5.15.2~),
          ${misc:Depends},
-Recommends: libkf5attica-doc (= ${source:Version})
+Recommends: libkf5attica-doc (= ${source:Version}),
 Description: development files for libkf5attica5
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.6.
@@ -36,12 +36,12 @@ Description: development files for libkf5attica5
  This package is part of KDE Frameworks 5.
  .
  This package contains the development header files.
-Breaks: libkf5newstuff-dev (<< 5.54), libkf5xmlgui-dev (<< 5.54)
+Breaks: libkf5newstuff-dev (<< 5.54), libkf5xmlgui-dev (<< 5.54),
 
 Package: libkf5attica-doc
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}
+Depends: ${misc:Depends},
 Description: Qt library that implements the Open Collaboration Services API (documentation)
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.6.
@@ -57,7 +57,7 @@ Section: doc
 Package: libkf5attica5
 Architecture: any
 Multi-Arch: same
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends},
 Description: Qt library that implements the Open Collaboration Services API
  Attica is a Qt library that implements the Open Collaboration Services
  API version 1.6.

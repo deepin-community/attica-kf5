@@ -21,10 +21,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica11Achievement29achievementVisibilityToStringENS0_10VisibilityE@Base 4.96.0
  _ZN6Attica11Achievement29stringToAchievementVisibilityERK7QString@Base 4.96.0
  _ZN6Attica11Achievement5setIdERK7QString@Base 4.96.0
- _ZN6Attica11Achievement6Parser15parseXmlOptionsER16QXmlStreamReader@Base 4.96.0
- _ZN6Attica11Achievement6Parser16parseXmlProgressER16QXmlStreamReader@Base 4.96.0
- _ZN6Attica11Achievement6Parser20parseXmlDependenciesER16QXmlStreamReader@Base 4.96.0
- _ZN6Attica11Achievement6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica11Achievement7setNameERK7QString@Base 4.96.0
  _ZN6Attica11Achievement7setTypeENS0_4TypeE@Base 4.96.0
  _ZN6Attica11Achievement8setImageERK4QUrl@Base 4.96.0
@@ -85,7 +81,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  (optional=templinst)_ZN6Attica11ItemPostJobINS_9PublisherEEC2EPNS_17PlatformDependentERK15QNetworkRequestRK4QMapI7QStringS9_E@Base 4.96.0
  _ZN6Attica11PrivateData12setAttributeERK7QStringS3_@Base 4.96.0
  _ZN6Attica11PrivateData12setTimestampERK7QStringRK9QDateTime@Base 4.96.0
- _ZN6Attica11PrivateData6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica11PrivateDataC1ERKS0_@Base 4.96.0
  _ZN6Attica11PrivateDataC1Ev@Base 4.96.0
  _ZN6Attica11PrivateDataC2ERKS0_@Base 4.96.0
@@ -94,7 +89,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica11PrivateDataD2Ev@Base 4.96.0
  _ZN6Attica11PrivateDataaSERKS0_@Base 4.96.0
  _ZN6Attica12BuildService5setIdERK7QString@Base 4.96.0
- _ZN6Attica12BuildService6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica12BuildService6setUrlERK7QString@Base 4.96.0
  _ZN6Attica12BuildService7setNameERK7QString@Base 4.96.0
  _ZN6Attica12BuildService9addTargetERKNS_6TargetE@Base 4.96.0
@@ -106,7 +100,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica12BuildServiceD2Ev@Base 4.96.0
  _ZN6Attica12BuildServiceaSERKS0_@Base 4.96.0
  _ZN6Attica12Distribution5setIdEj@Base 4.96.0
- _ZN6Attica12Distribution6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica12Distribution7setNameERK7QString@Base 4.96.0
  _ZN6Attica12DistributionC1ERKS0_@Base 4.96.0
  _ZN6Attica12DistributionC1Ev@Base 4.96.0
@@ -121,7 +114,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica12DownloadItem17setGpgFingerprintERK7QString@Base 4.96.0
  _ZN6Attica12DownloadItem20setPackageRepositoryERK7QString@Base 4.96.0
  _ZN6Attica12DownloadItem4typeEv@Base 4.96.0
- _ZN6Attica12DownloadItem6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica12DownloadItem6setUrlERK4QUrl@Base 4.96.0
  _ZN6Attica12DownloadItem7setTypeENS_19DownloadDescription4TypeE@Base 4.96.0
  _ZN6Attica12DownloadItemC1ERKS0_@Base 4.96.0
@@ -132,7 +124,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica12DownloadItemD2Ev@Base 4.96.0
  _ZN6Attica12DownloadItemaSERKS0_@Base 4.96.0
  _ZN6Attica12HomePageType5setIdEj@Base 4.96.0
- _ZN6Attica12HomePageType6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica12HomePageType7setNameERK7QString@Base 4.96.0
  _ZN6Attica12HomePageTypeC1ERKS0_@Base 4.96.0
  _ZN6Attica12HomePageTypeC1Ev@Base 4.96.0
@@ -156,7 +147,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica13RemoteAccount11setPasswordERK7QString@Base 4.96.0
  _ZN6Attica13RemoteAccount18setRemoteServiceIdERK7QString@Base 4.96.0
  _ZN6Attica13RemoteAccount5setIdERK7QString@Base 4.96.0
- _ZN6Attica13RemoteAccount6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica13RemoteAccount7setDataERK7QString@Base 4.96.0
  _ZN6Attica13RemoteAccount7setTypeERK7QString@Base 4.96.0
  _ZN6Attica13RemoteAccount8setLoginERK7QString@Base 4.96.0
@@ -169,7 +159,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica13RemoteAccountaSERKS0_@Base 4.96.0
  _ZN6Attica14AccountBalance10setBalanceERK7QString@Base 4.96.0
  _ZN6Attica14AccountBalance11setCurrencyERK7QString@Base 4.96.0
- _ZN6Attica14AccountBalance6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica14AccountBalanceC1ERKS0_@Base 4.96.0
  _ZN6Attica14AccountBalanceC1Ev@Base 4.96.0
  _ZN6Attica14AccountBalanceC2ERKS0_@Base 4.96.0
@@ -177,7 +166,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica14AccountBalanceD1Ev@Base 4.96.0
  _ZN6Attica14AccountBalanceD2Ev@Base 4.96.0
  _ZN6Attica14AccountBalanceaSERKS0_@Base 4.96.0
- _ZN6Attica14PublisherField6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica14PublisherField7setDataERK7QString@Base 4.96.0
  _ZN6Attica14PublisherField7setNameERK7QString@Base 4.96.0
  _ZN6Attica14PublisherField7setTypeERK7QString@Base 4.96.0
@@ -193,7 +181,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica15BuildServiceJob12setProjectIdERK7QString@Base 4.96.0
  _ZN6Attica15BuildServiceJob17setBuildServiceIdERK7QString@Base 4.96.0
  _ZN6Attica15BuildServiceJob5setIdERK7QString@Base 4.96.0
- _ZN6Attica15BuildServiceJob6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica15BuildServiceJob6setUrlERK7QString@Base 4.96.0
  _ZN6Attica15BuildServiceJob7setNameERK7QString@Base 4.96.0
  _ZN6Attica15BuildServiceJob9setStatusEi@Base 4.96.0
@@ -239,7 +226,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica18KnowledgeBaseEntry14setDescriptionERK7QString@Base 4.96.0
  _ZN6Attica18KnowledgeBaseEntry20addExtendedAttributeERK7QStringS3_@Base 4.96.0
  _ZN6Attica18KnowledgeBaseEntry5setIdE7QString@Base 4.96.0
- _ZN6Attica18KnowledgeBaseEntry6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica18KnowledgeBaseEntry7setNameERK7QString@Base 4.96.0
  _ZN6Attica18KnowledgeBaseEntry7setUserERK7QString@Base 4.96.0
  _ZN6Attica18KnowledgeBaseEntry9setAnswerERK7QString@Base 4.96.0
@@ -289,7 +275,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica19DownloadDescriptionD1Ev@Base 4.96.0
  _ZN6Attica19DownloadDescriptionD2Ev@Base 4.96.0
  _ZN6Attica19DownloadDescriptionaSERKS0_@Base 4.96.0
- _ZN6Attica21BuildServiceJobOutput6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica21BuildServiceJobOutput9setOutputERK7QString@Base 4.96.0
  _ZN6Attica21BuildServiceJobOutputC1ERKS0_@Base 4.96.0
  _ZN6Attica21BuildServiceJobOutputC1Ev@Base 4.96.0
@@ -317,7 +302,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica5Event14setDescriptionERK7QString@Base 4.96.0
  _ZN6Attica5Event20addExtendedAttributeERK7QStringS3_@Base 4.96.0
  _ZN6Attica5Event5setIdERK7QString@Base 4.96.0
- _ZN6Attica5Event6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica5Event7setCityERK7QString@Base 4.96.0
  _ZN6Attica5Event7setNameERK7QString@Base 4.96.0
  _ZN6Attica5Event7setUserERK7QString@Base 4.96.0
@@ -332,8 +316,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica5Forum13setChildCountEi@Base 4.96.0
  _ZN6Attica5Forum14setDescriptionERK7QString@Base 4.96.0
  _ZN6Attica5Forum5setIdERK7QString@Base 4.96.0
- _ZN6Attica5Forum6Parser16parseXmlChildrenER16QXmlStreamReader@Base 4.96.0
- _ZN6Attica5Forum6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica5Forum7setDateERK9QDateTime@Base 4.96.0
  _ZN6Attica5Forum7setIconERK4QUrl@Base 4.96.0
  _ZN6Attica5Forum7setNameERK7QString@Base 4.96.0
@@ -350,7 +332,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica5Topic10setSubjectERK7QString@Base 4.96.0
  _ZN6Attica5Topic11setCommentsEi@Base 4.96.0
  _ZN6Attica5Topic5setIdERK7QString@Base 4.96.0
- _ZN6Attica5Topic6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica5Topic7setDateERK9QDateTime@Base 4.96.0
  _ZN6Attica5Topic7setUserERK7QString@Base 4.96.0
  _ZN6Attica5TopicC1ERKS0_@Base 4.96.0
@@ -375,7 +356,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica6ConfigaSERKS0_@Base 5.49.0
  _ZN6Attica6Folder15setMessageCountEi@Base 4.96.0
  _ZN6Attica6Folder5setIdERK7QString@Base 4.96.0
- _ZN6Attica6Folder6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica6Folder7setNameERK7QString@Base 4.96.0
  _ZN6Attica6Folder7setTypeERK7QString@Base 4.96.0
  _ZN6Attica6FolderC1ERKS0_@Base 4.96.0
@@ -597,8 +577,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica7Comment13setChildCountEi@Base 4.96.0
  _ZN6Attica7Comment19commentTypeToStringENS0_4TypeE@Base 4.96.0
  _ZN6Attica7Comment5setIdERK7QString@Base 4.96.0
- _ZN6Attica7Comment6Parser16parseXmlChildrenER16QXmlStreamReader@Base 4.96.0
- _ZN6Attica7Comment6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica7Comment7setDateERK9QDateTime@Base 4.96.0
  _ZN6Attica7Comment7setTextERK7QString@Base 4.96.0
  _ZN6Attica7Comment7setUserERK7QString@Base 4.96.0
@@ -618,7 +596,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica7Content19setNumberOfCommentsEi@Base 4.96.0
  _ZN6Attica7Content5iconsEv@Base 4.96.0
  _ZN6Attica7Content5setIdERK7QString@Base 4.96.0
- _ZN6Attica7Content6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica7Content6videosEv@Base 4.96.0
  _ZN6Attica7Content7setNameERK7QString@Base 4.96.0
  _ZN6Attica7Content7setTagsERK11QStringList@Base 5.50.0
@@ -684,7 +661,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  (optional=templinst)_ZN6Attica7ItemJobINS_9PublisherEEC1EPNS_17PlatformDependentERK15QNetworkRequest@Base 4.96.0
  (optional=templinst)_ZN6Attica7ItemJobINS_9PublisherEEC2EPNS_17PlatformDependentERK15QNetworkRequest@Base 4.96.0
  _ZN6Attica7License5setIdEj@Base 4.96.0
- _ZN6Attica7License6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica7License6setUrlERK4QUrl@Base 4.96.0
  _ZN6Attica7License7setNameERK7QString@Base 4.96.0
  _ZN6Attica7LicenseC1ERKS0_@Base 4.96.0
@@ -763,7 +739,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica7Message10setSubjectERK7QString@Base 4.96.0
  _ZN6Attica7Message5setIdERK7QString@Base 4.96.0
  _ZN6Attica7Message5setToERK7QString@Base 4.96.0
- _ZN6Attica7Message6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica7Message7setBodyERK7QString@Base 4.96.0
  _ZN6Attica7Message7setFromERK7QString@Base 4.96.0
  _ZN6Attica7Message7setSentERK9QDateTime@Base 4.96.0
@@ -795,7 +770,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica7Project15setRequirementsERK7QString@Base 4.96.0
  _ZN6Attica7Project20addExtendedAttributeERK7QStringS3_@Base 4.96.0
  _ZN6Attica7Project5setIdERK7QString@Base 4.96.0
- _ZN6Attica7Project6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica7Project6setUrlERK7QString@Base 4.96.0
  _ZN6Attica7Project7setNameERK7QString@Base 4.96.0
  _ZN6Attica7ProjectC1ERKS0_@Base 4.96.0
@@ -809,7 +783,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica8Activity12setTimestampERK9QDateTime@Base 4.96.0
  _ZN6Attica8Activity19setAssociatedPersonERKNS_6PersonE@Base 4.96.0
  _ZN6Attica8Activity5setIdERK7QString@Base 4.96.0
- _ZN6Attica8Activity6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica8Activity7setLinkERK4QUrl@Base 4.96.0
  _ZN6Attica8ActivityC1ERKS0_@Base 4.96.0
  _ZN6Attica8ActivityC1Ev@Base 4.96.0
@@ -820,7 +793,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica8ActivityaSERKS0_@Base 4.96.0
  _ZN6Attica8Category14setDisplayNameERK7QString@Base 5.35.0
  _ZN6Attica8Category5setIdERK7QString@Base 4.96.0
- _ZN6Attica8Category6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica8Category7setNameERK7QString@Base 4.96.0
  _ZN6Attica8CategoryC1ERKS0_@Base 4.96.0
  _ZN6Attica8CategoryC1Ev@Base 4.96.0
@@ -969,7 +941,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZN6Attica9DeleteJobC1EPNS_17PlatformDependentERK15QNetworkRequest@Base 4.96.0
  _ZN6Attica9DeleteJobC2EPNS_17PlatformDependentERK15QNetworkRequest@Base 4.96.0
  _ZN6Attica9Publisher5setIdERK7QString@Base 4.96.0
- _ZN6Attica9Publisher6Parser8parseXmlER16QXmlStreamReader@Base 4.96.0
  _ZN6Attica9Publisher6setUrlERK7QString@Base 4.96.0
  _ZN6Attica9Publisher7setNameERK7QString@Base 4.96.0
  _ZN6Attica9Publisher8addFieldERKNS_5FieldE@Base 4.96.0
@@ -991,7 +962,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica11Achievement4typeEv@Base 4.96.0
  _ZNK6Attica11Achievement5imageEv@Base 4.96.0
  _ZNK6Attica11Achievement5stepsEv@Base 4.96.0
- _ZNK6Attica11Achievement6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica11Achievement6pointsEv@Base 4.96.0
  _ZNK6Attica11Achievement7isValidEv@Base 4.96.0
  _ZNK6Attica11Achievement7optionsEv@Base 4.96.0
@@ -1007,28 +977,23 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  (optional=templinst)_ZNK6Attica11ItemPostJobINS_7ProjectEE6resultEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica11ItemPostJobINS_9PublisherEE6resultEv@Base 4.96.0
  _ZNK6Attica11PrivateData4keysEv@Base 4.96.0
- _ZNK6Attica11PrivateData6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica11PrivateData9attributeERK7QString@Base 4.96.0
  _ZNK6Attica11PrivateData9timestampERK7QString@Base 4.96.0
  _ZNK6Attica12BuildService2idEv@Base 4.96.0
  _ZNK6Attica12BuildService3urlEv@Base 4.96.0
  _ZNK6Attica12BuildService4nameEv@Base 4.96.0
- _ZNK6Attica12BuildService6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica12BuildService7isValidEv@Base 4.96.0
  _ZNK6Attica12BuildService7targetsEv@Base 4.96.0
  _ZNK6Attica12Distribution2idEv@Base 4.96.0
  _ZNK6Attica12Distribution4nameEv@Base 4.96.0
- _ZNK6Attica12Distribution6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica12DownloadItem11packageNameEv@Base 4.96.0
  _ZNK6Attica12DownloadItem12gpgSignatureEv@Base 4.96.0
  _ZNK6Attica12DownloadItem14gpgFingerprintEv@Base 4.96.0
  _ZNK6Attica12DownloadItem17packageRepositoryEv@Base 4.96.0
  _ZNK6Attica12DownloadItem3urlEv@Base 4.96.0
- _ZNK6Attica12DownloadItem6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica12DownloadItem8mimeTypeEv@Base 4.96.0
  _ZNK6Attica12HomePageType2idEv@Base 4.96.0
  _ZNK6Attica12HomePageType4nameEv@Base 4.96.0
- _ZNK6Attica12HomePageType6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica13HomePageEntry3urlEv@Base 4.96.0
  _ZNK6Attica13HomePageEntry4typeEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica13ItemDeleteJobINS_11AchievementEE6resultEv@Base 4.96.0
@@ -1037,23 +1002,19 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica13RemoteAccount4dataEv@Base 4.96.0
  _ZNK6Attica13RemoteAccount4typeEv@Base 4.96.0
  _ZNK6Attica13RemoteAccount5loginEv@Base 4.96.0
- _ZNK6Attica13RemoteAccount6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica13RemoteAccount7isValidEv@Base 4.96.0
  _ZNK6Attica13RemoteAccount8passwordEv@Base 4.96.0
- _ZNK6Attica14AccountBalance6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica14AccountBalance7balanceEv@Base 4.96.0
  _ZNK6Attica14AccountBalance8currencyEv@Base 4.96.0
  _ZNK6Attica14PublisherField4dataEv@Base 4.96.0
  _ZNK6Attica14PublisherField4nameEv@Base 4.96.0
  _ZNK6Attica14PublisherField4typeEv@Base 4.96.0
- _ZNK6Attica14PublisherField6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica14PublisherField7isValidEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob11isCompletedEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob14buildServiceIdEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob2idEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob3urlEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob4nameEv@Base 4.96.0
- _ZNK6Attica15BuildServiceJob6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob6targetEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob7isValidEv@Base 4.96.0
  _ZNK6Attica15BuildServiceJob7messageEv@Base 4.96.0
@@ -1074,7 +1035,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica18KnowledgeBaseEntry2idEv@Base 4.96.0
  _ZNK6Attica18KnowledgeBaseEntry4nameEv@Base 4.96.0
  _ZNK6Attica18KnowledgeBaseEntry4userEv@Base 4.96.0
- _ZNK6Attica18KnowledgeBaseEntry6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica18KnowledgeBaseEntry6answerEv@Base 4.96.0
  _ZNK6Attica18KnowledgeBaseEntry6statusEv@Base 4.96.0
  _ZNK6Attica18KnowledgeBaseEntry7changedEv@Base 4.96.0
@@ -1096,7 +1056,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica19DownloadDescription4typeEv@Base 5.3.0+git20141010
  _ZNK6Attica19DownloadDescription8categoryEv@Base 5.3.0+git20141010
  _ZNK6Attica19DownloadDescription8hasPriceEv@Base 5.3.0+git20141010
- _ZNK6Attica21BuildServiceJobOutput6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica21BuildServiceJobOutput6outputEv@Base 4.96.0
  _ZNK6Attica21BuildServiceJobOutput7isValidEv@Base 4.96.0
  _ZNK6Attica4Icon3urlEv@Base 4.96.0
@@ -1109,7 +1068,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica5Event4cityEv@Base 4.96.0
  _ZNK6Attica5Event4nameEv@Base 4.96.0
  _ZNK6Attica5Event4userEv@Base 4.96.0
- _ZNK6Attica5Event6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica5Event7countryEv@Base 4.96.0
  _ZNK6Attica5Event7endDateEv@Base 4.96.0
  _ZNK6Attica5Event7isValidEv@Base 4.96.0
@@ -1123,14 +1081,12 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica5Forum4dateEv@Base 4.96.0
  _ZNK6Attica5Forum4iconEv@Base 4.96.0
  _ZNK6Attica5Forum4nameEv@Base 4.96.0
- _ZNK6Attica5Forum6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica5Forum6topicsEv@Base 4.96.0
  _ZNK6Attica5Forum7isValidEv@Base 4.96.0
  _ZNK6Attica5Forum8childrenEv@Base 4.96.0
  _ZNK6Attica5Topic2idEv@Base 4.96.0
  _ZNK6Attica5Topic4dateEv@Base 4.96.0
  _ZNK6Attica5Topic4userEv@Base 4.96.0
- _ZNK6Attica5Topic6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica5Topic7contentEv@Base 4.96.0
  _ZNK6Attica5Topic7forumIdEv@Base 4.96.0
  _ZNK6Attica5Topic7isValidEv@Base 4.96.0
@@ -1147,7 +1103,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica6Folder2idEv@Base 4.96.0
  _ZNK6Attica6Folder4nameEv@Base 4.96.0
  _ZNK6Attica6Folder4typeEv@Base 4.96.0
- _ZNK6Attica6Folder6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica6Folder7isValidEv@Base 4.96.0
  _ZNK6Attica6GetJob10metaObjectEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica6ParserINS_11AchievementEE8metadataEv@Base 4.96.0
@@ -1201,7 +1156,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica7Comment4textEv@Base 4.96.0
  _ZNK6Attica7Comment4userEv@Base 4.96.0
  _ZNK6Attica7Comment5scoreEv@Base 4.96.0
- _ZNK6Attica7Comment6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica7Comment7isValidEv@Base 4.96.0
  _ZNK6Attica7Comment7subjectEv@Base 4.96.0
  _ZNK6Attica7Comment8childrenEv@Base 4.96.0
@@ -1219,7 +1173,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica7Content4nameEv@Base 4.96.0
  _ZNK6Attica7Content4tagsEv@Base 5.50.0
  _ZNK6Attica7Content5iconsEv@Base 5.21.0
- _ZNK6Attica7Content6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica7Content6authorEv@Base 4.96.0
  _ZNK6Attica7Content6dependEv@Base 4.96.0
  _ZNK6Attica7Content6ratingEv@Base 4.96.0
@@ -1252,7 +1205,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica7License2idEv@Base 4.96.0
  _ZNK6Attica7License3urlEv@Base 4.96.0
  _ZNK6Attica7License4nameEv@Base 4.96.0
- _ZNK6Attica7License6Parser10xmlElementEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica7ListJobINS_11AchievementEE8itemListEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica7ListJobINS_12BuildServiceEE8itemListEv@Base 4.96.0
  (optional=templinst)_ZNK6Attica7ListJobINS_12DistributionEE8itemListEv@Base 4.96.0
@@ -1280,7 +1232,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica7Message4bodyEv@Base 4.96.0
  _ZNK6Attica7Message4fromEv@Base 4.96.0
  _ZNK6Attica7Message4sentEv@Base 4.96.0
- _ZNK6Attica7Message6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica7Message6statusEv@Base 4.96.0
  _ZNK6Attica7Message7isValidEv@Base 4.96.0
  _ZNK6Attica7Message7subjectEv@Base 4.96.0
@@ -1293,7 +1244,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica7Project2idEv@Base 4.96.0
  _ZNK6Attica7Project3urlEv@Base 4.96.0
  _ZNK6Attica7Project4nameEv@Base 4.96.0
- _ZNK6Attica7Project6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica7Project7isValidEv@Base 4.96.0
  _ZNK6Attica7Project7licenseEv@Base 4.96.0
  _ZNK6Attica7Project7summaryEv@Base 4.96.0
@@ -1302,14 +1252,12 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica8Activity16associatedPersonEv@Base 4.96.0
  _ZNK6Attica8Activity2idEv@Base 4.96.0
  _ZNK6Attica8Activity4linkEv@Base 4.96.0
- _ZNK6Attica8Activity6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica8Activity7isValidEv@Base 4.96.0
  _ZNK6Attica8Activity7messageEv@Base 4.96.0
  _ZNK6Attica8Activity9timestampEv@Base 4.96.0
  _ZNK6Attica8Category11displayNameEv@Base 5.35.0
  _ZNK6Attica8Category2idEv@Base 4.96.0
  _ZNK6Attica8Category4nameEv@Base 4.96.0
- _ZNK6Attica8Category6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica8Category7isValidEv@Base 4.96.0
  _ZNK6Attica8Metadata10statusCodeEv@Base 4.96.0
  _ZNK6Attica8Metadata12statusStringEv@Base 4.96.0
@@ -1347,12 +1295,10 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZNK6Attica9Publisher2idEv@Base 4.96.0
  _ZNK6Attica9Publisher3urlEv@Base 4.96.0
  _ZNK6Attica9Publisher4nameEv@Base 4.96.0
- _ZNK6Attica9Publisher6Parser10xmlElementEv@Base 4.96.0
  _ZNK6Attica9Publisher6fieldsEv@Base 4.96.0
  _ZNK6Attica9Publisher7isValidEv@Base 4.96.0
  _ZNK6Attica9Publisher7targetsEv@Base 4.96.0
  _ZTIN6Attica10ItemPutJobINS_11AchievementEEE@Base 4.96.0
- _ZTIN6Attica11Achievement6ParserE@Base 4.96.0
  _ZTIN6Attica11ItemPostJobINS_11AchievementEEE@Base 4.96.0
  _ZTIN6Attica11ItemPostJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTIN6Attica11ItemPostJobINS_13RemoteAccountEEE@Base 4.96.0
@@ -1362,24 +1308,9 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTIN6Attica11ItemPostJobINS_7ContentEEE@Base 4.96.0
  _ZTIN6Attica11ItemPostJobINS_7ProjectEEE@Base 4.96.0
  _ZTIN6Attica11ItemPostJobINS_9PublisherEEE@Base 4.96.0
- _ZTIN6Attica11PrivateData6ParserE@Base 4.96.0
- _ZTIN6Attica12BuildService6ParserE@Base 4.96.0
- _ZTIN6Attica12Distribution6ParserE@Base 4.96.0
- _ZTIN6Attica12DownloadItem6ParserE@Base 4.96.0
- _ZTIN6Attica12HomePageType6ParserE@Base 4.96.0
  _ZTIN6Attica13ItemDeleteJobINS_11AchievementEEE@Base 4.96.0
- _ZTIN6Attica13RemoteAccount6ParserE@Base 4.96.0
- _ZTIN6Attica14AccountBalance6ParserE@Base 4.96.0
- _ZTIN6Attica14PublisherField6ParserE@Base 4.96.0
- _ZTIN6Attica15BuildServiceJob6ParserE@Base 4.96.0
  _ZTIN6Attica15ProviderManagerE@Base 4.96.0
- _ZTIN6Attica18KnowledgeBaseEntry6ParserE@Base 4.96.0
- _ZTIN6Attica21BuildServiceJobOutput6ParserE@Base 4.96.0
- _ZTIN6Attica5Event6ParserE@Base 4.96.0
- _ZTIN6Attica5Forum6ParserE@Base 4.96.0
- _ZTIN6Attica5Topic6ParserE@Base 4.96.0
  _ZTIN6Attica6Config6ParserE@Base 5.49.0
- _ZTIN6Attica6Folder6ParserE@Base 4.96.0
  _ZTIN6Attica6GetJobE@Base 4.96.0
  _ZTIN6Attica6ParserINS_11AchievementEEE@Base 4.96.0
  _ZTIN6Attica6ParserINS_11PrivateDataEEE@Base 4.96.0
@@ -1410,8 +1341,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTIN6Attica6Person6ParserE@Base 4.96.0
  _ZTIN6Attica6PutJobE@Base 4.96.0
  _ZTIN6Attica7BaseJobE@Base 4.96.0
- _ZTIN6Attica7Comment6ParserE@Base 4.96.0
- _ZTIN6Attica7Content6ParserE@Base 4.96.0
  _ZTIN6Attica7ItemJobINS_11AchievementEEE@Base 4.96.0
  _ZTIN6Attica7ItemJobINS_11PrivateDataEEE@Base 4.96.0
  _ZTIN6Attica7ItemJobINS_12BuildServiceEEE@Base 4.96.0
@@ -1429,7 +1358,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTIN6Attica7ItemJobINS_7MessageEEE@Base 4.96.0
  _ZTIN6Attica7ItemJobINS_7ProjectEEE@Base 4.96.0
  _ZTIN6Attica7ItemJobINS_9PublisherEEE@Base 4.96.0
- _ZTIN6Attica7License6ParserE@Base 4.96.0
  _ZTIN6Attica7ListJobINS_11AchievementEEE@Base 4.96.0
  _ZTIN6Attica7ListJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTIN6Attica7ListJobINS_12DistributionEEE@Base 4.96.0
@@ -1452,15 +1380,9 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTIN6Attica7ListJobINS_8ActivityEEE@Base 4.96.0
  _ZTIN6Attica7ListJobINS_8CategoryEEE@Base 4.96.0
  _ZTIN6Attica7ListJobINS_9PublisherEEE@Base 4.96.0
- _ZTIN6Attica7Message6ParserE@Base 4.96.0
  _ZTIN6Attica7PostJobE@Base 4.96.0
- _ZTIN6Attica7Project6ParserE@Base 4.96.0
- _ZTIN6Attica8Activity6ParserE@Base 4.96.0
- _ZTIN6Attica8Category6ParserE@Base 4.96.0
  _ZTIN6Attica9DeleteJobE@Base 4.96.0
- _ZTIN6Attica9Publisher6ParserE@Base 4.96.0
  _ZTSN6Attica10ItemPutJobINS_11AchievementEEE@Base 4.96.0
- _ZTSN6Attica11Achievement6ParserE@Base 4.96.0
  _ZTSN6Attica11ItemPostJobINS_11AchievementEEE@Base 4.96.0
  _ZTSN6Attica11ItemPostJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTSN6Attica11ItemPostJobINS_13RemoteAccountEEE@Base 4.96.0
@@ -1470,24 +1392,9 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTSN6Attica11ItemPostJobINS_7ContentEEE@Base 4.96.0
  _ZTSN6Attica11ItemPostJobINS_7ProjectEEE@Base 4.96.0
  _ZTSN6Attica11ItemPostJobINS_9PublisherEEE@Base 4.96.0
- _ZTSN6Attica11PrivateData6ParserE@Base 4.96.0
- _ZTSN6Attica12BuildService6ParserE@Base 4.96.0
- _ZTSN6Attica12Distribution6ParserE@Base 4.96.0
- _ZTSN6Attica12DownloadItem6ParserE@Base 4.96.0
- _ZTSN6Attica12HomePageType6ParserE@Base 4.96.0
  _ZTSN6Attica13ItemDeleteJobINS_11AchievementEEE@Base 4.96.0
- _ZTSN6Attica13RemoteAccount6ParserE@Base 4.96.0
- _ZTSN6Attica14AccountBalance6ParserE@Base 4.96.0
- _ZTSN6Attica14PublisherField6ParserE@Base 4.96.0
- _ZTSN6Attica15BuildServiceJob6ParserE@Base 4.96.0
  _ZTSN6Attica15ProviderManagerE@Base 4.96.0
- _ZTSN6Attica18KnowledgeBaseEntry6ParserE@Base 4.96.0
- _ZTSN6Attica21BuildServiceJobOutput6ParserE@Base 4.96.0
- _ZTSN6Attica5Event6ParserE@Base 4.96.0
- _ZTSN6Attica5Forum6ParserE@Base 4.96.0
- _ZTSN6Attica5Topic6ParserE@Base 4.96.0
  _ZTSN6Attica6Config6ParserE@Base 5.49.0
- _ZTSN6Attica6Folder6ParserE@Base 4.96.0
  _ZTSN6Attica6GetJobE@Base 4.96.0
  _ZTSN6Attica6ParserINS_11AchievementEEE@Base 4.96.0
  _ZTSN6Attica6ParserINS_11PrivateDataEEE@Base 4.96.0
@@ -1518,8 +1425,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTSN6Attica6Person6ParserE@Base 4.96.0
  _ZTSN6Attica6PutJobE@Base 4.96.0
  _ZTSN6Attica7BaseJobE@Base 4.96.0
- _ZTSN6Attica7Comment6ParserE@Base 4.96.0
- _ZTSN6Attica7Content6ParserE@Base 4.96.0
  _ZTSN6Attica7ItemJobINS_11AchievementEEE@Base 4.96.0
  _ZTSN6Attica7ItemJobINS_11PrivateDataEEE@Base 4.96.0
  _ZTSN6Attica7ItemJobINS_12BuildServiceEEE@Base 4.96.0
@@ -1537,7 +1442,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTSN6Attica7ItemJobINS_7MessageEEE@Base 4.96.0
  _ZTSN6Attica7ItemJobINS_7ProjectEEE@Base 4.96.0
  _ZTSN6Attica7ItemJobINS_9PublisherEEE@Base 4.96.0
- _ZTSN6Attica7License6ParserE@Base 4.96.0
  _ZTSN6Attica7ListJobINS_11AchievementEEE@Base 4.96.0
  _ZTSN6Attica7ListJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTSN6Attica7ListJobINS_12DistributionEEE@Base 4.96.0
@@ -1560,15 +1464,9 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTSN6Attica7ListJobINS_8ActivityEEE@Base 4.96.0
  _ZTSN6Attica7ListJobINS_8CategoryEEE@Base 4.96.0
  _ZTSN6Attica7ListJobINS_9PublisherEEE@Base 4.96.0
- _ZTSN6Attica7Message6ParserE@Base 4.96.0
  _ZTSN6Attica7PostJobE@Base 4.96.0
- _ZTSN6Attica7Project6ParserE@Base 4.96.0
- _ZTSN6Attica8Activity6ParserE@Base 4.96.0
- _ZTSN6Attica8Category6ParserE@Base 4.96.0
  _ZTSN6Attica9DeleteJobE@Base 4.96.0
- _ZTSN6Attica9Publisher6ParserE@Base 4.96.0
  _ZTVN6Attica10ItemPutJobINS_11AchievementEEE@Base 4.96.0
- _ZTVN6Attica11Achievement6ParserE@Base 4.96.0
  _ZTVN6Attica11ItemPostJobINS_11AchievementEEE@Base 4.96.0
  _ZTVN6Attica11ItemPostJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTVN6Attica11ItemPostJobINS_13RemoteAccountEEE@Base 4.96.0
@@ -1578,24 +1476,9 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTVN6Attica11ItemPostJobINS_7ContentEEE@Base 4.96.0
  _ZTVN6Attica11ItemPostJobINS_7ProjectEEE@Base 4.96.0
  _ZTVN6Attica11ItemPostJobINS_9PublisherEEE@Base 4.96.0
- _ZTVN6Attica11PrivateData6ParserE@Base 4.96.0
- _ZTVN6Attica12BuildService6ParserE@Base 4.96.0
- _ZTVN6Attica12Distribution6ParserE@Base 4.96.0
- _ZTVN6Attica12DownloadItem6ParserE@Base 4.96.0
- _ZTVN6Attica12HomePageType6ParserE@Base 4.96.0
  _ZTVN6Attica13ItemDeleteJobINS_11AchievementEEE@Base 4.96.0
- _ZTVN6Attica13RemoteAccount6ParserE@Base 4.96.0
- _ZTVN6Attica14AccountBalance6ParserE@Base 4.96.0
- _ZTVN6Attica14PublisherField6ParserE@Base 4.96.0
- _ZTVN6Attica15BuildServiceJob6ParserE@Base 4.96.0
  _ZTVN6Attica15ProviderManagerE@Base 4.96.0
- _ZTVN6Attica18KnowledgeBaseEntry6ParserE@Base 4.96.0
- _ZTVN6Attica21BuildServiceJobOutput6ParserE@Base 4.96.0
- _ZTVN6Attica5Event6ParserE@Base 4.96.0
- _ZTVN6Attica5Forum6ParserE@Base 4.96.0
- _ZTVN6Attica5Topic6ParserE@Base 4.96.0
  _ZTVN6Attica6Config6ParserE@Base 5.49.0
- _ZTVN6Attica6Folder6ParserE@Base 4.96.0
  _ZTVN6Attica6GetJobE@Base 4.96.0
  _ZTVN6Attica6ParserINS_11AchievementEEE@Base 4.96.0
  _ZTVN6Attica6ParserINS_11PrivateDataEEE@Base 4.96.0
@@ -1626,8 +1509,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTVN6Attica6Person6ParserE@Base 4.96.0
  _ZTVN6Attica6PutJobE@Base 4.96.0
  _ZTVN6Attica7BaseJobE@Base 4.96.0
- _ZTVN6Attica7Comment6ParserE@Base 4.96.0
- _ZTVN6Attica7Content6ParserE@Base 4.96.0
  _ZTVN6Attica7ItemJobINS_11AchievementEEE@Base 4.96.0
  _ZTVN6Attica7ItemJobINS_11PrivateDataEEE@Base 4.96.0
  _ZTVN6Attica7ItemJobINS_12BuildServiceEEE@Base 4.96.0
@@ -1645,7 +1526,6 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTVN6Attica7ItemJobINS_7MessageEEE@Base 4.96.0
  _ZTVN6Attica7ItemJobINS_7ProjectEEE@Base 4.96.0
  _ZTVN6Attica7ItemJobINS_9PublisherEEE@Base 4.96.0
- _ZTVN6Attica7License6ParserE@Base 4.96.0
  _ZTVN6Attica7ListJobINS_11AchievementEEE@Base 4.96.0
  _ZTVN6Attica7ListJobINS_12BuildServiceEEE@Base 4.96.0
  _ZTVN6Attica7ListJobINS_12DistributionEEE@Base 4.96.0
@@ -1668,10 +1548,5 @@ libKF5Attica.so.5 libkf5attica5 #MINVER#
  _ZTVN6Attica7ListJobINS_8ActivityEEE@Base 4.96.0
  _ZTVN6Attica7ListJobINS_8CategoryEEE@Base 4.96.0
  _ZTVN6Attica7ListJobINS_9PublisherEEE@Base 4.96.0
- _ZTVN6Attica7Message6ParserE@Base 4.96.0
  _ZTVN6Attica7PostJobE@Base 4.96.0
- _ZTVN6Attica7Project6ParserE@Base 4.96.0
- _ZTVN6Attica8Activity6ParserE@Base 4.96.0
- _ZTVN6Attica8Category6ParserE@Base 4.96.0
  _ZTVN6Attica9DeleteJobE@Base 4.96.0
- _ZTVN6Attica9Publisher6ParserE@Base 4.96.0
